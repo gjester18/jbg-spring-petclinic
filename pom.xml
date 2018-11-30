@@ -45,7 +45,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:gjester18/jbg-spring-petclinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/gjester18/jbg-spring-petclinic.git</developerConnection>
       <tag>jbg-petclinic-0.0.1</tag>
   </scm>
 
