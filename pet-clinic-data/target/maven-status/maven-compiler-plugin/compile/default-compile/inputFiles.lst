@@ -1,0 +1,14 @@
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/services/map/AbstractMapService.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/services/OwnerService.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/model/Vet.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/services/map/OwnerServiceMap.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/model/Pet.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/services/CrudService.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/services/PetService.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/services/VetService.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/model/PetType.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/model/Person.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/model/Owner.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/services/map/VetServiceMap.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/model/BaseEntity.java
+/Users/jbgutierrez/Desktop/udemyspring/jbg-spring-petclinic/pet-clinic-data/src/main/java/guru/springframework/jbgpetclinic/services/map/PetServiceMap.java
