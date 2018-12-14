@@ -1,2 +1,5 @@
-guru/springframework/jbgpetclinic/controllers/IndexController.class
+guru/springframework/jbgpetclinic/controllers/bootstrap/DataLoader.class
 guru/springframework/jbgpetclinic/JbgPetclinicApplication.class
+guru/springframework/jbgpetclinic/controllers/VetController.class
+guru/springframework/jbgpetclinic/controllers/IndexController.class
+guru/springframework/jbgpetclinic/controllers/OwnerController.class
