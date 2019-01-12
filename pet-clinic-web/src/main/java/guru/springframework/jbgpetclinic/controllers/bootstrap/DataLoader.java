@@ -29,6 +29,16 @@ public class DataLoader implements CommandLineRunner {
     @Override
     public void run(String... args)  {
 
+        int petTypeCount = petTypeService.findAll().size();
+
+        if (petTypeCount == 0){
+            initData();
+        }
+
+
+    }
+
+    private void initData() {
         PetType dog = new PetType();
         dog.setName("Dog");
         PetType savedDogPetType = petTypeService.save(dog);
@@ -36,7 +46,6 @@ public class DataLoader implements CommandLineRunner {
         PetType cat = new PetType();
         dog.setName("Cat");
         PetType savedCatPetType = petTypeService.save(cat);
-
 
 
         Owner owner1 = new Owner();
@@ -100,8 +109,5 @@ public class DataLoader implements CommandLineRunner {
 
 
         System.out.println("Loaded Vets...........");
-
-
-
     }
 }
