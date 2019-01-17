@@ -9,8 +9,6 @@ import java.util.Set;
 @Table(name = "pets")
 public class Pet extends BaseEntity  {
 
-    @Column(name = "pet_type")
-
     @ManyToOne
     @JoinColumn(name = "type_id")
     private PetType petType;
